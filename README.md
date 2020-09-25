@@ -12,4 +12,5 @@ Pour plus d'information sur la méthode associée :
  - [Cahier des charges](1.INIT/120.cdc.md)
  
 
-
+## Site de publication
+ - pour accéder à votre site, remplacer 0z par le code de votre équipe à l'URL suivante : https://github.com/iti4mgpi/moa2020a-Oz
