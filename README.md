@@ -5,6 +5,6 @@ Pour plus d'information sur la méthode associée :
 
 
 Fichiers à éditer
- - 1.INIT/105.liste_idees_brutes.md
+ - [Liste idées brutes](1.INIT/105.liste_idees_brutes.md)
 
 
